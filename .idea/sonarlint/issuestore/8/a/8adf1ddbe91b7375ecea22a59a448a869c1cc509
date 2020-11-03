@@ -1,0 +1,9 @@
+
+d
+java:S2095-"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8ı¡Öò×.
+O
+java:S4925&"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8ı¡Öò×.
+d
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8ı¡Öò×.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8ı¡Öò×.

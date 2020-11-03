@@ -1,0 +1,19 @@
+
+
+java:S1192"]Define a constant instead of duplicating this literal "/WEB-INF/views/edit/edit.jsp" 4 times.( ¸å‹ùÿÿÿÿ8ñ¨â÷×.
+m
+java:S1192"KDefine a constant instead of duplicating this literal "nameStatus" 3 times.(Û¶´ºùÿÿÿÿ8š“÷×.
+h
+java:S1192"LDefine a constant instead of duplicating this literal "emailStatus" 3 times.(úËò8š“÷×.
+E
+java:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8š“÷×.
+f
+java:S1192+"IDefine a constant instead of duplicating this literal "password" 4 times.(ÀÜÜü8š“÷×.
+q
+java:S1192,"ODefine a constant instead of duplicating this literal "repeatPassword" 4 times.(€Ó¶ÿùÿÿÿÿ8ƒÜûö×.
+W
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8š“÷×.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "nickName" 5 times.(×· úûÿÿÿÿ8š“÷×.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "email" 5 times.(±å‹àûÿÿÿÿ8ÿßÈö×.

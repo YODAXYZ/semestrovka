@@ -1,0 +1,6 @@
+
+=
+java:S1170"!Make this final field static too.(ĞßC8â¢›Ø.
+s	java:S116"XRename this field "ABSOLUTE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞßC8â¢›Ø.
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ĞßC8â¢›Ø.

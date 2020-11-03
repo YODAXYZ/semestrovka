@@ -1,0 +1,24 @@
+
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ø¦„‘Ð.
+E
+java:S1148<"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8íè†‘Ð.
+b
+java:S22591"@A "NullPointerException" could be thrown; "ps" is nullable here.(“¦©¿ùÿÿÿÿ8¼ý…‘Ð.
+X	java:S125F"<This block of commented-out lines of code should be removed.(†Š¯¶8·¸„‘Ð.
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Í‹„‘Ð.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8±íƒ‘Ð.
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ìÉ…‘Ð.
+\
+java:S1161":Add the "@Override" annotation above this method signature(þ³‚”ûÿÿÿÿ8ÅÆ õÏ.
+q
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©øƒìûÿÿÿÿ8ø¦„‘Ð.
+j
+java:S2095%"HUse try-with-resources or close this "Connection" in a "finally" clause.(¦üŸ¯ùÿÿÿÿ8Í‹„‘Ð.
+c
+java:S2259,"AA "NullPointerException" could be thrown; "con" is nullable here.(©øƒìûÿÿÿÿ8ø¦„‘Ð.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8±íƒ‘Ð.

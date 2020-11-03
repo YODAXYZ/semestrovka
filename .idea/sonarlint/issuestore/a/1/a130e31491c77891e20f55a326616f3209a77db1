@@ -1,0 +1,8 @@
+
+V
+java:S1128"4Remove this unused import 'ru.itis.model.LoginBean'.(˜›¶ëÿÿÿÿÿ8¥×.
+O
+java:S4925'"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8Ä¼ƒ×.
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑØµü
+d
+java:S20950"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8Ä¼ƒ×.
