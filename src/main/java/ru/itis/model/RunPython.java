@@ -21,5 +21,13 @@ public class RunPython {
             e.getMessage();
         }
     }
+    public void runDatabase() {
+        String command = "python " + ABSOLUTE_PATH + "add_value_to_db.py";
+        try {
+            Runtime.getRuntime().exec(command);
+        } catch (IOException e) {
+            e.getMessage();
+        }
+    }
 
 }

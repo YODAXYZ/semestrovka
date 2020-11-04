@@ -1,0 +1,2 @@
+INSERT INTO public.student (name, email, pass) VALUES ('kas1yoda@gmail.com', 'kas1yoda@gmail.com', 'kas1yoda@gmail.com');
+INSERT INTO public.student (name, email, pass) VALUES ('fkjflkfjlkj@mgfia.com', 'fkjflkfjlkj@mgfia.com', 'fkjflkfjlkj@mgfia.com');

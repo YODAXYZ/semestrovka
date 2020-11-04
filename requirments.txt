@@ -1,0 +1,9 @@
+requests
+pandas
+beautifulsoup4
+seaborn
+matplotlib
+numpy
+selenium
+logging
+psycopg2==2.7.5

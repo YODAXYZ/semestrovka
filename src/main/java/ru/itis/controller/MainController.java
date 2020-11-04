@@ -35,6 +35,7 @@ public class MainController extends HttpServlet {
 
             RunPython runPython = new RunPython();
             runPython.runScraping();
+            runPython.runDatabase();
         }
         request.setAttribute("temp", statistic);
         request.setAttribute("images", images);
